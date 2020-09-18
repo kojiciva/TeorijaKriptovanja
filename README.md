@@ -1,1 +1,1 @@
-# TeorijaKriptovanja
+# Teorija Kriptovanja
